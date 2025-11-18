@@ -1,6 +1,7 @@
 # hide data
 Eaton_Perimeter/
 Palisades_Perimeter/
+landsat8-2025-02-23-palisades-eaton.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
