@@ -2,6 +2,8 @@
 ## A case study about the Eaton and Palisades Fires
 ### EDS 220 - Homework 4
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Palisades_Fire_%2854253581167%29.jpg/640px-Palisades_Fire_%2854253581167%29.jpg)
+
 ## About
 This repository contains all code and outputs for this study on false color imagery. The Eaton and Palisades fire in Los Angeles County were devestating for local communities, damaging thousands of homes and many acres of ecological habitat, leaving deep scars in both the communities they affected and the land itself. In this study, we will visualize the extents of the Eaton and Palisades fires using false color imagery through landsat data and known perimeters of both fires.
 
